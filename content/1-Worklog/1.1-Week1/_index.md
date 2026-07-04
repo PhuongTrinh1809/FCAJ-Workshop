@@ -50,14 +50,14 @@ pre: " <b> 1.1. </b> "
       <td class="col-task">- Study Module 01-01: What Is Cloud Computing? <br> - Complete the Amazon Bedrock task to learn about generative AI on AWS. <br> - Complete the task and record results in the system.</td>
       <td class="col-date">22/04/2026</td>
       <td class="col-date">22/04/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://www.youtube.com/watch?v=HxYZAK1coOI&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=4</td>
     </tr>
     <tr>
       <td class="col-day">4</td>
       <td class="col-task">- Study Module 01-02: What Makes AWS Different? <br> - Complete the Aurora and RDS task. <br> - Learn about managed database services on AWS.</td>
       <td class="col-date">23/04/2026</td>
       <td class="col-date">23/04/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://www.youtube.com/watch?v=IK59Zdd1poE&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=5</td>
     </tr>
     <tr>
       <td class="col-day">5</td>
@@ -71,7 +71,7 @@ pre: " <b> 1.1. </b> "
       <td class="col-task">- Study Module 01-03: How to Start Your Cloud Journey? <br> - Complete the Amazon EC2 task. <br> - Learn how to create and manage virtual servers on AWS.</td>
       <td class="col-date">25/04/2026</td>
       <td class="col-date">25/04/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://www.youtube.com/watch?v=HSzrWGqo3ME&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=6</td>
     </tr>
     <tr>
       <td class="col-day">7</td>

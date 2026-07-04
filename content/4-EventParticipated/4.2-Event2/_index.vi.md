@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Bài thu hoạch – FCAJ Community Day June 2026
+# Bài thu hoạch – FCAJ Community Day 
 
 **Chủ đề:** Cloud, AI & Agentic Applications in Modern Enterprises
 
@@ -144,7 +144,7 @@ pre: " <b> 4.2. </b> "
 
 ### VI. Trải nghiệm trong sự kiện
 
-Tham gia **FCAJ Community Day June 2026** là một trải nghiệm rất ý nghĩa, giúp em có cơ hội tiếp cận những xu hướng công nghệ mới nhất về Cloud Computing, AI Agent và DevOps hiện đại. Em đặc biệt ấn tượng với các phiên chia sẻ về Agentic AI và AWS DevOps Agent, bởi những công nghệ này đang mở ra nhiều cơ hội mới trong việc tự động hóa vận hành hệ thống.
+Tham gia **FCAJ Community Day** là một trải nghiệm rất ý nghĩa, giúp em có cơ hội tiếp cận những xu hướng công nghệ mới nhất về Cloud Computing, AI Agent và DevOps hiện đại. Em đặc biệt ấn tượng với các phiên chia sẻ về Agentic AI và AWS DevOps Agent, bởi những công nghệ này đang mở ra nhiều cơ hội mới trong việc tự động hóa vận hành hệ thống.
 
 Ngoài ra, sự kiện còn mang đến cơ hội giao lưu với các chuyên gia trong ngành, giúp em hiểu rõ hơn về yêu cầu của doanh nghiệp đối với kỹ sư Cloud và AI trong tương lai. Những kiến thức và kinh nghiệm học được từ workshop sẽ là nền tảng quan trọng để em tiếp tục nghiên cứu và áp dụng vào các dự án thực tế.
 
@@ -157,4 +157,4 @@ Ngoài ra, sự kiện còn mang đến cơ hội giao lưu với các chuyên g
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-*Thêm các hình ảnh của bạn tại đây*
+![](/images/4-EventParticipated/Event-2.jpg)

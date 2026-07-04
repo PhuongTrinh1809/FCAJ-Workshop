@@ -37,49 +37,49 @@ pre: " <b> 1.3. </b> "
       <td class="col-task">- Thực hiện Lab Create IAM Group and IAM User. <br> - Tạo nhóm quản trị (Admin Group). <br> - Tạo tài khoản người dùng quản trị (Admin User). <br> - Thực hành đăng nhập bằng tài khoản IAM User thay vì tài khoản Root.</td>
       <td class="col-date">04/05/2026</td>
       <td class="col-date">04/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000002.awsstudygroup.com/</td>
     </tr>
     <tr>
       <td class="col-day">2</td>
       <td class="col-task">- Thực hiện Lab Create IAM Role and IAM User. <br> - Tạo IAM Role với quyền quản trị. <br> - Tạo tài khoản OperatorUser. <br> - Tìm hiểu cơ chế phân quyền thông qua IAM Role.</td>
       <td class="col-date">05/05/2026</td>
       <td class="col-date">05/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000002.awsstudygroup.com/</td>
     </tr>
     <tr>
       <td class="col-day">3</td>
       <td class="col-task">- Thực hiện Lab Switch Role. <br> - Cấu hình quyền cho OperatorUser chuyển đổi vai trò. <br> - Thực hành truy cập AWS Console bằng cơ chế Switch Role. <br> - Tìm hiểu mô hình phân quyền và ủy quyền trong AWS.</td>
       <td class="col-date">06/05/2026</td>
       <td class="col-date">06/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000002.awsstudygroup.com/</td>
     </tr>
     <tr>
       <td class="col-day">4</td>
       <td class="col-task">- Tìm hiểu Firewall trong VPC. <br> - Thực hành cấu hình Security Group. <br> - Tìm hiểu Network ACLs và VPC Resource Map. <br> - Nắm được cơ chế kiểm soát truy cập mạng trong AWS.</td>
       <td class="col-date">07/05/2026</td>
       <td class="col-date">07/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000003.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">5</td>
       <td class="col-task">- Thực hiện các bước chuẩn bị hạ tầng mạng: Tạo VPC, tạo Subnet, tạo Internet Gateway, tạo Route Table, tạo Security Group và kích hoạt VPC Flow Logs để giám sát lưu lượng mạng.</td>
       <td class="col-date">08/05/2026</td>
       <td class="col-date">08/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000003.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">6</td>
       <td class="col-task">- Thực hiện Lab Deploying Amazon EC2 Instances. <br> - Tạo và cấu hình máy chủ EC2. <br> - Kiểm tra khả năng kết nối đến EC2. <br> - Tìm hiểu NAT Gateway. <br> - Thực hành sử dụng Reachability Analyzer. <br> - Tìm hiểu EC2 Instance Connect và AWS Systems Manager Session Manager. <br> - Thiết lập CloudWatch Monitoring & Alerting.</td>
       <td class="col-date">09/05/2026</td>
       <td class="col-date">09/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000004.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">7</td>
       <td class="col-task">- Thực hiện Lab Setting Up Site-to-Site VPN Connection in AWS. <br> - Tạo môi trường VPN. <br> - Tạo Virtual Private Gateway và Customer Gateway. <br> - Thiết lập VPN Connection. <br> - Cấu hình VPN Tunnel. <br> - Tìm hiểu các phương pháp kết nối VPN thay thế và xử lý sự cố VPN. <br> - Ôn tập và tổng hợp kiến thức đã học và thực hành trong tuần.</td>
       <td class="col-date">10/05/2026</td>
       <td class="col-date">10/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://www.youtube.com/watch?v=CXU8D3kyxIc&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=27</td>
     </tr>
   </tbody>
 </table>

@@ -37,49 +37,49 @@ pre: " <b> 1.5. </b> "
       <td class="col-task">- Learn an overview of Amazon S3. <br> - Study S3 Bucket, Object Storage concepts, and the role of S3 in the AWS ecosystem. <br> - Learn bucket naming rules and how to choose an appropriate AWS Region.</td>
       <td class="col-date">18/05/2026</td>
       <td class="col-date">18/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000057.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">2</td>
       <td class="col-task">- Create an S3 Bucket on AWS. <br> - Configure:  Bucket Name, AWS Region, Object Ownership (ACLs Disabled), Block Public Access per AWS recommendations. <br> - Learn default security settings of Amazon S3.</td>
       <td class="col-date">19/05/2026</td>
       <td class="col-date">19/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000057.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">3</td>
       <td class="col-task">- Upload static website source code to the S3 Bucket. <br> - Upload all website data to the Bucket. <br> - Verify folder structure and objects stored successfully on Amazon S3.</td>
       <td class="col-date">20/05/2026</td>
       <td class="col-date">20/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000057.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">4</td>
       <td class="col-task">- Enable Static Website Hosting for the S3 Bucket. <br> - Configure the default website page. <br> - Adjust Public Access Block and grant public access for website objects. <br> - Test website access through the S3 Website Endpoint.</td>
       <td class="col-date">21/05/2026</td>
       <td class="col-date">21/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000057.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">5</td>
       <td class="col-task">- Test the website after deployment. <br> - Confirm access to pages and static resources. <br> - Learn Amazon S3 storage and content delivery mechanisms.</td>
       <td class="col-date">22/05/2026</td>
       <td class="col-date">22/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000057.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">6</td>
       <td class="col-task">- Complete the Accelerate Static Websites with CloudFront Lab. <br> - Configure Amazon CloudFront Distribution. <br> - Set the S3 Bucket as Origin for CloudFront. <br> - Test content delivery through CloudFront. <br> - Compare access performance between S3 Website Endpoint and CloudFront Distribution.</td>
       <td class="col-date">23/05/2026</td>
       <td class="col-date">23/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000057.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">7</td>
       <td class="col-task">- Learn about Bucket Versioning. <br> - Study object version management in S3. <br> - Clean up resources after completing the Lab. <br> - Consolidate and organize knowledge learned during the week.</td>
       <td class="col-date">24/05/2026</td>
       <td class="col-date">24/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000057.awsstudygroup.com</td>
     </tr>
   </tbody>
 </table>

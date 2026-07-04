@@ -37,49 +37,49 @@ pre: " <b> 1.4. </b> "
       <td class="col-task">- Learn application deployment architecture on AWS. <br> - Complete Lab environment preparation steps. <br> - Study application deployment models using Amazon EC2 combined with Amazon RDS.</td>
       <td class="col-date">11/05/2026</td>
       <td class="col-date">11/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000005.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">2</td>
       <td class="col-task">- Complete the application deployment Lab: <br> - Create an EC2 Instance. <br> - Configure the server environment. <br> - Create an Amazon RDS Database Instance. <br> - Connect the application to the database.</td>
       <td class="col-date">12/05/2026</td>
       <td class="col-date">12/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000005.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">3</td>
       <td class="col-task">- Deploy the application to the AWS environment. <br> - Test connectivity between EC2 and RDS. <br> - Practice Backup and Restore operations.</td>
       <td class="col-date">13/05/2026</td>
       <td class="col-date">13/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000005.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">4</td>
       <td class="col-task">- Complete Auto Scaling preparation steps: Set up network infrastructure, initialize EC2 Instance, initialize RDS Database, configure system data, deploy Web Server and prepare monitoring metrics for Auto Scaling.</td>
       <td class="col-date">14/05/2026</td>
       <td class="col-date">14/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000006.awsstudygroup.com/</td>
     </tr>
     <tr>
       <td class="col-day">5</td>
       <td class="col-task">- Complete the Create Launch Template Lab. <br> - Learn the role of Launch Template in automatically provisioning EC2. <br> - Configure parameters required for system scaling.</td>
       <td class="col-date">15/05/2026</td>
       <td class="col-date">15/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000006.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">6</td>
       <td class="col-task">- Complete the Setting Up Load Balancer Lab. <br> - Create a Target Group. <br> - Create and configure Application Load Balancer. <br> - Test traffic distribution to EC2 servers.</td>
       <td class="col-date">16/05/2026</td>
       <td class="col-date">16/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://www.youtube.com/watch?v=CXU8D3kyxIc&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=27</td>
     </tr>
     <tr>
       <td class="col-day">7</td>
       <td class="col-task">- Complete the Create Auto Scaling Group Lab. <br> - Configure Auto Scaling Group for the system. <br> - Test the following scenarios: Manual Scaling, Scheduled Scaling, Dynamic Scaling, Predictive Scaling. <br> - Evaluate automatic scale-out and scale-in based on usage demand.</td>
       <td class="col-date">17/05/2026</td>
       <td class="col-date">17/05/2026</td>
-      <td class="col-ref"></td>
+      <td class="col-ref">https://000006.awsstudygroup.com/</td>
     </tr>
   </tbody>
 </table>

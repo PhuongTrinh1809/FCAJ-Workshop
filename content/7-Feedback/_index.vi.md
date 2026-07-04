@@ -10,7 +10,7 @@ pre: " <b> 7. </b> "
 
 **1. Chất lượng chương trình học**
 
-Lộ trình **12 tuần** được xây dựng logic, đi từ nền tảng (Free Tier, IAM, EC2, VPC, RDS, S3) đến các dịch vụ nâng cao (Bedrock, Lambda, Step Functions, Cognito, API Gateway, CloudFront, WAF). Nhờ vậy, em đã tiếp thu kiến thức theo từng bước ở mức cơ bản, không bị choáng ngợp trước quy mô hệ sinh thái AWS. Phần lý thuyết kết hợp workshop thực hành giúp em vừa hiểu vừa làm được ngay trên console thật.
+Lộ trình 12 tuần được xây dựng logic, đi từ nền tảng (Free Tier, IAM, EC2, VPC, RDS, S3) đến các dịch vụ nâng cao (Bedrock, Lambda, Step Functions, Cognito, API Gateway, CloudFront, WAF). Nhờ vậy, em đã tiếp thu kiến thức theo từng bước ở mức cơ bản, không bị choáng ngợp trước quy mô hệ sinh thái AWS. Phần lý thuyết kết hợp workshop thực hành giúp em vừa hiểu vừa làm được ngay trên console thật.
 
 **2. Tài liệu và nguồn học tập**
 
@@ -22,16 +22,16 @@ Kiến thức từ tuần 1 đến tuần 8 (IAM, EC2, RDS, S3, CloudFront…) g
 
 **4. Cơ hội rèn luyện và phát triển bản thân**
 
-Sau 12 tuần, em từ trạng thái mới làm quen AWS đã có thể tham gia thiết kế và triển khai một hệ thống cloud ở mức tạm ổn. Trải nghiệm tích hợp **cơ sở hạ tầng AWS** vào đồ án nhóm là cơ hội giúp em hiểu hơn về hệ sinh thái của AWS.
+Sau 12 tuần, em từ trạng thái mới làm quen AWS đã có thể tham gia thiết kế và triển khai một hệ thống cloud ở mức tạm ổn. Trải nghiệm tích hợp cơ sở hạ tầng AWS vào đồ án nhóm là cơ hội giúp em hiểu hơn về hệ sinh thái của AWS.
 
 **5. Khó khăn và bài học đáng nhớ**
 
-- **Thách thức kỹ thuật lớn nhất:** Sử dụng tài khoản free tier, khiến cho việc sử dụng các cơ sở hạ tầng của AWS bị hạn chế - ví dụ như: không thuê được domain để sử dụng route 53 vào đồ án. Còn nhiều hạ tầng vẫn chưa nắm rõ được.
-- **Bài học quan trọng nhất:** Sau khi sử dụng các cơ sở hạ tầng của AWS, phải xóa hết tài nguyên và kiểm tra kĩ Bills để tránh mất tiền oan.
+- Thách thức kỹ thuật lớn nhất: Sử dụng tài khoản free tier, khiến cho việc sử dụng các cơ sở hạ tầng của AWS bị hạn chế - ví dụ như: không thuê được domain để sử dụng route 53 vào đồ án. Còn nhiều hạ tầng vẫn chưa nắm rõ được.
+- Bài học quan trọng nhất: Sau khi sử dụng các cơ sở hạ tầng của AWS, phải xóa hết tài nguyên và kiểm tra kĩ Bills để tránh mất tiền oan.
 
 **6. Chính sách hỗ trợ và phúc lợi**
 
-Gói **AWS Credit $200** giúp em thực hành thoải mái hơn mà ít lo chi phí phát sinh. Hướng dẫn thiết lập Budget và Billing Alerts ngay từ đầu cũng rất hữu ích — em dám thử thêm dịch vụ mới mà vẫn kiểm soát được mức chi tiêu.
+Gói AWS Credit $200 giúp em thực hành thoải mái hơn mà ít lo chi phí phát sinh. Hướng dẫn thiết lập Budget và Billing Alerts ngay từ đầu cũng rất hữu ích — em dám thử thêm dịch vụ mới mà vẫn kiểm soát được mức chi tiêu.
 
 ---
 

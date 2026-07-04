@@ -10,7 +10,7 @@ pre: " <b> 7. </b> "
 
 **1. Program Quality**
 
-The **12-week** roadmap is logically structured, progressing from fundamentals (Free Tier, IAM, EC2, VPC, RDS, S3) to advanced services (Bedrock, Lambda, Step Functions, Cognito, API Gateway, CloudFront, WAF). This helped me absorb knowledge step by step at a basic level without feeling overwhelmed by the scale of the AWS ecosystem. Combining theory with hands-on workshops allowed me to both understand concepts and practice directly on the real console.
+The 12-week roadmap is logically structured, progressing from fundamentals (Free Tier, IAM, EC2, VPC, RDS, S3) to advanced services (Bedrock, Lambda, Step Functions, Cognito, API Gateway, CloudFront, WAF). This helped me absorb knowledge step by step at a basic level without feeling overwhelmed by the scale of the AWS ecosystem. Combining theory with hands-on workshops allowed me to both understand concepts and practice directly on the real console.
 
 **2. Documentation and Learning Resources**
 
@@ -22,16 +22,16 @@ Knowledge from weeks 1 through 8 (IAM, EC2, RDS, S3, CloudFront, etc.) connects 
 
 **4. Opportunities for Practice and Personal Growth**
 
-After 12 weeks, I went from being new to AWS to participating in designing and deploying a reasonably stable cloud system. The experience of integrating **AWS infrastructure** into the team project helped me understand the AWS ecosystem more deeply.
+After 12 weeks, I went from being new to AWS to participating in designing and deploying a reasonably stable cloud system. The experience of integrating AWS infrastructure into the team project helped me understand the AWS ecosystem more deeply.
 
 **5. Challenges and Memorable Lessons**
 
-- **Biggest technical challenge:** Using a Free Tier account limited access to certain AWS infrastructure — for example, not being able to register a domain for Route 53 in the project. There are still many infrastructure components I have not fully mastered.
-- **Most important lesson:** After using AWS resources, delete everything and carefully review Bills to avoid unexpected charges.
+- Biggest technical challenge: Using a Free Tier account limited access to certain AWS infrastructure — for example, not being able to register a domain for Route 53 in the project. There are still many infrastructure components I have not fully mastered.
+- Most important lesson: After using AWS resources, delete everything and carefully review Bills to avoid unexpected charges.
 
 **6. Support Policies and Benefits**
 
-The **$200 AWS Credit** package made hands-on practice easier with less worry about unexpected costs. Guidance on setting up Budgets and Billing Alerts from the start was also very helpful — I felt confident trying new services while still controlling spending.
+The $200 AWS Credit package made hands-on practice easier with less worry about unexpected costs. Guidance on setting up Budgets and Billing Alerts from the start was also very helpful — I felt confident trying new services while still controlling spending.
 
 ---
 

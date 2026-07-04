@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Detailed Summary Report – FCAJ Community Day June 2026
+# Detailed Summary Report – FCAJ Community Day 
 
 **Main Theme:** Cloud, AI & Agentic Applications in Modern Enterprises
 
@@ -143,7 +143,7 @@ Attending the **FCAJ Community Day** conference delivered significant academic a
 
 ### VI. Real-World Event Experience and Reflections
 
-Directly participating in **FCAJ Community Day June 2026** was an extremely valuable technology experience. The event opened a panoramic lens helping me keep pace with pioneering waves in Cloud Computing, autonomous AI Agent models, and modern DevOps culture.
+Directly participating in **FCAJ Community Day** was an extremely valuable technology experience. The event opened a panoramic lens helping me keep pace with pioneering waves in Cloud Computing, autonomous AI Agent models, and modern DevOps culture.
 
 I was particularly captivated by the two sessions on **Agentic AI** and **AWS DevOps Agent** — these solutions go beyond theory and have proven their ability to thoroughly solve real-world operations automation problems.
 
@@ -158,4 +158,4 @@ The **Networking** space at the event enabled direct contact and conversation wi
 
 #### Some event photos
 
-*Add your event photos here*
+![](/images/4-EventParticipated/Event-2.jpg)
