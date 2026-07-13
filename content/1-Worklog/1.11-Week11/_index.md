@@ -33,28 +33,28 @@ pre: " <b> 1.11. </b> "
   <tbody>
     <tr>
       <td class="col-day">1</td>
-      <td class="col-task">- Integrate deployed AWS infrastructure into the team system. <br> - Connect to the main server and verify component compatibility.</td>
+      <td class="col-task">- Integrate deployed AWS infrastructure into the team's system. <br> - Connect to the main server. <br> - Verify compatibility between components.</td>
       <td class="col-date">29/06/2026</td>
       <td class="col-date">29/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">2</td>
-      <td class="col-task">- Test connectivity between CloudFront, AWS WAF, and API Gateway. <br> - Test routing and content delivery.</td>
+      <td class="col-task">- Continue completing the integration process. <br> - Verify connectivity between CloudFront, AWS WAF, and API Gateway. <br> - Verify routing and content delivery.</td>
       <td class="col-date">30/06/2026</td>
       <td class="col-date">30/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Test system access flow. <br> - Coordinate with team members to test features after integration.</td>
+      <td class="col-task">- Test the system access flow. <br> - Coordinate with team members to test functions after integration.</td>
       <td class="col-date">01/07/2026</td>
       <td class="col-date">01/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">4</td>
-      <td class="col-task">- Fix errors arising during integration. <br> - Adjust CloudFront, Cognito callback, and Web ACL configuration.</td>
+      <td class="col-task">- Continue testing the entire system. <br> - Fix issues arising during integration. <br> - Adjust CloudFront, Cognito callback, and Web ACL configuration.</td>
       <td class="col-date">02/07/2026</td>
       <td class="col-date">02/07/2026</td>
       <td class="col-ref"></td>
@@ -68,14 +68,14 @@ pre: " <b> 1.11. </b> "
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Finalize AWS infrastructure configuration documentation.</td>
+      <td class="col-task">- Continue reviewing configuration after testing. <br> - Complete AWS infrastructure configuration documentation.</td>
       <td class="col-date">04/07/2026</td>
       <td class="col-date">04/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Consolidate deployment results. <br> - Prepare infrastructure handoff for the project finalization phase.</td>
+      <td class="col-task">- Summarize deployment results. <br> - Prepare infrastructure handoff for the project completion phase.</td>
       <td class="col-date">05/07/2026</td>
       <td class="col-date">05/07/2026</td>
       <td class="col-ref"></td>
@@ -86,6 +86,6 @@ pre: " <b> 1.11. </b> "
 ### Week 11 results:
 
 * Integrated AWS infrastructure into the team's shared system.
-* Tested system access flow on the server.
-* Finalized configuration and fixed errors during integration.
-* Ensured stable system operation before finalization.
+* Tested the system access flow on the server.
+* Completed configuration and fixed issues arising during integration.
+* Ensured stable system operation before completion.

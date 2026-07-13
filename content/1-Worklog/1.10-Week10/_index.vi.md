@@ -33,7 +33,7 @@ pre: " <b> 1.10. </b> "
   <tbody>
     <tr>
       <td class="col-day">1</td>
-      <td class="col-task">- Chuẩn bị môi trường triển khai Workshop. <br> - Tạo IAM User và cấp quyền cho Amazon Cognito, Amazon API Gateway, Amazon CloudFront và AWS WAF. <br> - Kiểm tra quyền truy cập và cấu hình AWS CLI phục vụ quá trình triển khai.</td>
+      <td class="col-task">- Chuẩn bị môi trường triển khai Workshop. <br> - Tạo IAM User và cấp quyền cho Amazon Cognito, Amazon API Gateway, Amazon CloudFront và AWS WAF. <br> - Kiểm tra quyền truy cập. <br> - Cấu hình AWS CLI phục vụ quá trình triển khai.</td>
       <td class="col-date">22/06/2026</td>
       <td class="col-date">22/06/2026</td>
       <td class="col-ref"></td>
@@ -47,7 +47,7 @@ pre: " <b> 1.10. </b> "
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Triển khai Amazon CloudFront Distribution. <br> - Cấu hình Origin kết nối đến API Gateway (để trống Route 53 managed domain và Alternate domain). <br> - Thiết lập Cache Behaviors, Origin request policy và HTTPS redirect.</td>
+      <td class="col-task">- Triển khai Amazon CloudFront Distribution. <br> - Cấu hình Origin kết nối đến API Gateway. <br> - Thiết lập Cache Behaviors, Origin request policy và HTTPS redirect.</td>
       <td class="col-date">24/06/2026</td>
       <td class="col-date">24/06/2026</td>
       <td class="col-ref"></td>
@@ -68,14 +68,14 @@ pre: " <b> 1.10. </b> "
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Kiểm tra toàn bộ luồng truy cập: <br> - User → CloudFront (*.cloudfront.net) → AWS WAF → API Gateway (JWT/Cognito). <br> - Kiểm tra CloudFront domain, HTTPS và khả năng phản hồi của hệ thống.</td>
+      <td class="col-task">- Kiểm tra toàn bộ luồng truy cập: <br> &nbsp;&nbsp;&nbsp;&nbsp;- User → CloudFront (*.cloudfront.net) → AWS WAF → API Gateway (JWT/Cognito) → ALB. <br> - Kiểm tra CloudFront domain và HTTPS. <br> - Kiểm tra khả năng phản hồi của hệ thống.</td>
       <td class="col-date">27/06/2026</td>
       <td class="col-date">27/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Rà soát toàn bộ cấu hình đã thực hiện. <br> - Ghi nhận kết quả triển khai và cập nhật bảng tham số (CloudFront domain, Cognito, API Gateway).</td>
+      <td class="col-task">- Rà soát toàn bộ cấu hình đã thực hiện. <br> - Ghi nhận kết quả triển khai. <br> - Cập nhật tài liệu kỹ thuật và bảng tham số (CloudFront domain, Cognito, API Gateway).</td>
       <td class="col-date">28/06/2026</td>
       <td class="col-date">28/06/2026</td>
       <td class="col-ref"></td>

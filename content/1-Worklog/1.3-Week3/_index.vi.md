@@ -10,7 +10,7 @@ pre: " <b> 1.3. </b> "
 
 * Tiếp tục nghiên cứu và thực hành các bài Lab trên nền tảng AWS.
 * Tìm hiểu dịch vụ quản lý danh tính và phân quyền (IAM).
-* Nghiên cứu kiến trúc mạng trên AWS thông qua VPC, EC2 và Site-to-Site VPN.
+* Nghiên cứu kiến trúc mạng trên AWS thông qua VPC và EC2.
 * Thực hành triển khai, cấu hình và quản trị các tài nguyên hạ tầng trên AWS.
 
 ### Các công việc cần triển khai trong tuần này:
@@ -62,21 +62,21 @@ pre: " <b> 1.3. </b> "
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Thực hiện các bước chuẩn bị hạ tầng mạng: Tạo VPC, tạo Subnet, tạo Internet Gateway, tạo Route Table, tạo Security Group và kích hoạt VPC Flow Logs để giám sát lưu lượng mạng.</td>
+      <td class="col-task">- Thực hiện các bước chuẩn bị hạ tầng mạng: <br> &nbsp;&nbsp;&nbsp;&nbsp;- Tạo VPC. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Tạo Subnet. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Tạo Internet Gateway. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Tạo Route Table.</td>
       <td class="col-date">08/05/2026</td>
       <td class="col-date">08/05/2026</td>
       <td class="col-ref">https://000003.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Thực hiện Lab Deploying Amazon EC2 Instances. <br> - Tạo và cấu hình máy chủ EC2. <br> - Kiểm tra khả năng kết nối đến EC2. <br> - Tìm hiểu NAT Gateway. <br> - Thực hành sử dụng Reachability Analyzer. <br> - Tìm hiểu EC2 Instance Connect và AWS Systems Manager Session Manager. <br> - Thiết lập CloudWatch Monitoring & Alerting.</td>
+      <td class="col-task">- Hoàn thiện Security Group. <br> - Kích hoạt VPC Flow Logs để giám sát lưu lượng mạng. <br> - Thực hiện Lab Deploying Amazon EC2 Instances. <br> - Tạo và cấu hình máy chủ EC2.</td>
       <td class="col-date">09/05/2026</td>
       <td class="col-date">09/05/2026</td>
       <td class="col-ref">https://000004.awsstudygroup.com</td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Thực hiện Lab Setting Up Site-to-Site VPN Connection in AWS. <br> - Tạo môi trường VPN. <br> - Tạo Virtual Private Gateway và Customer Gateway. <br> - Thiết lập VPN Connection. <br> - Cấu hình VPN Tunnel. <br> - Tìm hiểu các phương pháp kết nối VPN thay thế và xử lý sự cố VPN. <br> - Ôn tập và tổng hợp kiến thức đã học và thực hành trong tuần.</td>
+      <td class="col-task">- Kiểm tra khả năng kết nối đến EC2. <br> - Tìm hiểu EC2 Instance Connect và AWS Systems Manager Session Manager. <br> - Ôn tập và tổng hợp kiến thức IAM, VPC và EC2.</td>
       <td class="col-date">10/05/2026</td>
       <td class="col-date">10/05/2026</td>
       <td class="col-ref">https://www.youtube.com/watch?v=CXU8D3kyxIc&list=PLahN4TLWtox2a3vElknwzU_urND8hLn1i&index=27</td>
@@ -89,6 +89,5 @@ pre: " <b> 1.3. </b> "
 * Nắm được cơ chế quản lý danh tính và phân quyền thông qua IAM User, IAM Group và IAM Role.
 * Thực hành thành công việc chuyển đổi vai trò (Switch Role) trong AWS.
 * Nắm được các thành phần mạng cơ bản trong AWS như VPC, Subnet, Route Table, Security Group và Network ACL.
-* Triển khai thành công máy chủ Amazon EC2 và thực hiện giám sát bằng CloudWatch.
-* Tìm hiểu và cấu hình kết nối Site-to-Site VPN trên AWS.
+* Triển khai thành công máy chủ Amazon EC2.
 * Củng cố kiến thức về quản trị hạ tầng và bảo mật mạng trên nền tảng điện toán đám mây AWS.

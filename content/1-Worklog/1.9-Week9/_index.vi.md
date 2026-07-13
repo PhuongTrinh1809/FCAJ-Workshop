@@ -8,9 +8,12 @@ pre: " <b> 1.9. </b> "
 
 ### Mục tiêu tuần 9:
 
-* Chuẩn bị triển khai Workshop về lớp xác thực và edge: Cognito, API Gateway, CloudFront và AWS WAF.
+* Chuẩn bị triển khai Workshop về lớp xác thực và edge:
+	* Cognito
+	* API Gateway
+	* CloudFront và AWS WAF
 * Hoàn thiện kiến trúc triển khai hạ tầng cho đồ án.
-* Nghiên cứu quy trình cấu hình các dịch vụ phục vụ lớp phân phối nội dung và bảo mật.
+* Nghiên cứu quy trình cấu hình Cognito, API Gateway, CloudFront và AWS WAF.
 
 ### Các công việc cần triển khai trong tuần này:
 <table class="worklog-table">
@@ -33,49 +36,49 @@ pre: " <b> 1.9. </b> "
   <tbody>
     <tr>
       <td class="col-day">1</td>
-      <td class="col-task">- Hoàn thiện sơ đồ kiến trúc hệ thống. <br> - Rà soát kiến trúc triển khai của đồ án. <br> - Đối chiếu với kiến trúc Workshop dự kiến triển khai.</td>
+      <td class="col-task">- Hoàn thiện sơ đồ kiến trúc hệ thống. <br> - Rà soát kiến trúc triển khai của đồ án. <br> - Bắt đầu chuẩn bị môi trường thực hiện triển khai.</td>
       <td class="col-date">15/06/2026</td>
       <td class="col-date">15/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">2</td>
-      <td class="col-task">- Chỉnh sửa sơ đồ kiến trúc. <br> - Hoàn thiện tài liệu kiến trúc và gửi cho các anh/chị hướng dẫn góp ý.</td>
+      <td class="col-task">- Đối chiếu thiết kế ban đầu (Route 53 + custom domain) với kiến trúc Workshop mới. <br> - Quyết định bỏ Route 53; dùng CloudFront domain mặc định (*.cloudfront.net) để đơn giản hóa triển khai và giảm chi phí trong môi trường workshop.</td>
       <td class="col-date">16/06/2026</td>
       <td class="col-date">16/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Đối chiếu thiết kế ban đầu (Route 53 + custom domain) với kiến trúc Workshop mới. <br> - Quyết định bỏ Route 53; dùng CloudFront domain mặc định (*.cloudfront.net) để đơn giản hóa triển khai và giảm chi phí trong môi trường workshop. <br> - Phân tích yêu cầu cập nhật Cognito callback URL và URL production Frontend.</td>
+      <td class="col-task">- Xây dựng phương án triển khai CloudFront Distribution (Origin trỏ API Gateway, không cấu hình Route 53 managed domain). <br> - Phân tích Origin, Cache Behaviors và HTTPS mặc định trên *.cloudfront.net.</td>
       <td class="col-date">17/06/2026</td>
       <td class="col-date">17/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">4</td>
-      <td class="col-task">- Xây dựng phương án triển khai CloudFront Distribution (Origin trỏ API Gateway, không cấu hình Route 53 managed domain). <br> - Phân tích Origin, Cache Behaviors và HTTPS mặc định trên *.cloudfront.net.</td>
+      <td class="col-task">- Tiếp tục hoàn thiện phương án triển khai CloudFront Distribution. <br> - Nghiên cứu quy trình triển khai Cognito User Pool, JWT Authorizer trên API Gateway. <br> - Nghiên cứu mô hình bảo mật bằng AWS WAF.</td>
       <td class="col-date">18/06/2026</td>
       <td class="col-date">18/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Nghiên cứu mô hình bảo mật bằng AWS WAF. <br> - Lựa chọn các Managed Rules và Rate Limit phù hợp. <br> - Nghiên cứu quy trình triển khai Cognito User Pool, JWT Authorizer trên API Gateway.</td>
+      <td class="col-task">- Lựa chọn các Managed Rules và Rate Limit phù hợp. <br> - Phân tích toàn bộ luồng: <br> &nbsp;&nbsp;&nbsp;&nbsp;User → CloudFront (*.cloudfront.net) → AWS WAF → API Gateway (JWT/Cognito) → ALB.</td>
       <td class="col-date">19/06/2026</td>
       <td class="col-date">19/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Phân tích toàn bộ luồng: <br> - User → CloudFront (*.cloudfront.net) → AWS WAF → API Gateway (JWT/Cognito) → ALB.</td>
+      <td class="col-task">- Tổng hợp tài liệu Workshop. <br> - Hoàn thiện quy trình triển khai.</td>
       <td class="col-date">20/06/2026</td>
       <td class="col-date">20/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Tổng hợp tài liệu Workshop. <br> - Chuẩn bị môi trường triển khai trong tuần tiếp theo.</td>
+      <td class="col-task">- Chuẩn bị môi trường triển khai trong tuần tiếp theo.</td>
       <td class="col-date">21/06/2026</td>
       <td class="col-date">21/06/2026</td>
       <td class="col-ref"></td>

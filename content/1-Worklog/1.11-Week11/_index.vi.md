@@ -33,14 +33,14 @@ pre: " <b> 1.11. </b> "
   <tbody>
     <tr>
       <td class="col-day">1</td>
-      <td class="col-task">- Tiến hành ghép phần hạ tầng AWS đã triển khai vào hệ thống của nhóm. <br> - Kết nối với máy chủ chính và kiểm tra khả năng tương thích giữa các thành phần.</td>
+      <td class="col-task">- Tiến hành ghép phần hạ tầng AWS đã triển khai vào hệ thống của nhóm. <br> - Kết nối với máy chủ chính. <br> - Kiểm tra khả năng tương thích giữa các thành phần.</td>
       <td class="col-date">29/06/2026</td>
       <td class="col-date">29/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">2</td>
-      <td class="col-task">- Kiểm tra kết nối giữa CloudFront, AWS WAF và API Gateway. <br> - Kiểm tra khả năng định tuyến và phân phối nội dung.</td>
+      <td class="col-task">- Tiếp tục hoàn thiện quá trình tích hợp. <br> - Kiểm tra kết nối giữa CloudFront, AWS WAF và API Gateway. <br> - Kiểm tra khả năng định tuyến và phân phối nội dung.</td>
       <td class="col-date">30/06/2026</td>
       <td class="col-date">30/06/2026</td>
       <td class="col-ref"></td>
@@ -54,7 +54,7 @@ pre: " <b> 1.11. </b> "
     </tr>
     <tr>
       <td class="col-day">4</td>
-      <td class="col-task">- Khắc phục lỗi phát sinh trong quá trình tích hợp. <br> - Điều chỉnh lại cấu hình CloudFront, Cognito callback và Web ACL.</td>
+      <td class="col-task">- Tiếp tục kiểm thử toàn bộ hệ thống. <br> - Khắc phục lỗi phát sinh trong quá trình tích hợp. <br> - Điều chỉnh lại cấu hình CloudFront, Cognito callback và Web ACL.</td>
       <td class="col-date">02/07/2026</td>
       <td class="col-date">02/07/2026</td>
       <td class="col-ref"></td>
@@ -68,7 +68,7 @@ pre: " <b> 1.11. </b> "
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Hoàn thiện tài liệu cấu hình hạ tầng AWS.</td>
+      <td class="col-task">- Tiếp tục rà soát cấu hình sau khi kiểm thử. <br> - Hoàn thiện tài liệu cấu hình hạ tầng AWS.</td>
       <td class="col-date">04/07/2026</td>
       <td class="col-date">04/07/2026</td>
       <td class="col-ref"></td>
@@ -87,5 +87,5 @@ pre: " <b> 1.11. </b> "
 
 * Tích hợp được phần hạ tầng AWS vào hệ thống chung của nhóm.
 * Kiểm thử được luồng truy cập của hệ thống trên máy chủ.
-* Hoàn thiện cấu hình và khắc phục lỗi đã phát sinh trong quá trình tích hợp.
+* Hoàn thiện cấu hình và khắc phục lỗi phát sinh trong quá trình tích hợp.
 * Đảm bảo hệ thống hoạt động ổn định trước khi hoàn thiện.

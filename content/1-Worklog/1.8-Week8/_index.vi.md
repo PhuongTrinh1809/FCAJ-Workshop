@@ -47,35 +47,35 @@ pre: " <b> 1.8. </b> "
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Kiểm tra tính hợp lý của các kết nối giữa các thành phần. <br> - Chuẩn bị kiến trúc phục vụ triển khai thực tế.</td>
+      <td class="col-task">- Tiếp tục chỉnh sửa sơ đồ kiến trúc triển khai trên AWS. <br> - Rà soát luồng xử lý giữa các thành phần. <br> - Điều chỉnh kết nối và cấu hình các dịch vụ AWS cho phù hợp với yêu cầu của hệ thống.</td>
       <td class="col-date">10/06/2026</td>
       <td class="col-date">10/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">4</td>
-      <td class="col-task">- Thiết kế cơ sở dữ liệu. <br> - Xây dựng mô hình ERD và xác định các bảng dữ liệu.</td>
+      <td class="col-task">- Kiểm tra tính hợp lý của các kết nối giữa các thành phần. <br> - Tiếp tục sơ đồ kiến trúc sau khi được góp ý. <br> - Chuẩn bị kiến trúc phục vụ triển khai thực tế.</td>
       <td class="col-date">11/06/2026</td>
       <td class="col-date">11/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Thiết kế Wireframe và giao diện UI/UX. <br> - Xây dựng bố cục các màn hình chính của hệ thống.</td>
+      <td class="col-task">- Thiết kế cơ sở dữ liệu. <br> - Xây dựng mô hình ERD. <br> - Xác định các bảng dữ liệu.</td>
       <td class="col-date">12/06/2026</td>
       <td class="col-date">12/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Hoàn thiện Prototype giao diện. <br> - Rà soát trải nghiệm người dùng và điều chỉnh giao diện.</td>
+      <td class="col-task">- Thiết kế Wireframe và giao diện UI/UX. <br> - Xây dựng bố cục chính của hệ thống.</td>
       <td class="col-date">13/06/2026</td>
       <td class="col-date">13/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Tổng hợp toàn bộ tài liệu thiết kế. <br> - Chuẩn bị cho giai đoạn triển khai hạ tầng AWS.</td>
+      <td class="col-task">- Hoàn thiện Prototype giao diện. <br> - Rà soát trải nghiệm người dùng và điều chỉnh giao diện. <br> - Tổng hợp toàn bộ tài liệu thiết kế. <br> - Chuẩn bị cho giai đoạn triển khai hạ tầng AWS.</td>
       <td class="col-date">14/06/2026</td>
       <td class="col-date">14/06/2026</td>
       <td class="col-ref"></td>
@@ -85,5 +85,6 @@ pre: " <b> 1.8. </b> "
 
 ### Kết quả đạt được tuần 8:
 
+* Tạm thời hoàn thiện sơ đồ kiến trúc triển khai hệ thống trên AWS.
 * Hoàn thiện thiết kế cơ sở dữ liệu và giao diện UI/UX.
 * Xây dựng được phương án triển khai hệ thống trên AWS.

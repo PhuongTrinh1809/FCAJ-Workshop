@@ -47,7 +47,7 @@ pre: " <b> 1.7. </b> "
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Nghiên cứu mô hình triển khai hệ thống trên AWS. <br> - Xác định vai trò của từng dịch vụ: Amazon EC2 triển khai Backend, Amazon RDS lưu trữ cơ sở dữ liệu, Amazon S3 lưu trữ tài nguyên tĩnh, Amazon CloudFront tối ưu tốc độ truy cập, Application Load Balancer phân phối lưu lượng truy cập.</td>
+      <td class="col-task">- Nghiên cứu mô hình triển khai hệ thống trên AWS. <br> - Xác định vai trò của từng dịch vụ: <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon EC2 triển khai Backend. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon RDS lưu trữ cơ sở dữ liệu. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon S3 lưu trữ tài nguyên tĩnh. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon CloudFront tối ưu tốc độ truy cập. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Application Load Balancer phân phối lưu lượng truy cập.</td>
       <td class="col-date">03/06/2026</td>
       <td class="col-date">03/06/2026</td>
       <td class="col-ref"></td>
@@ -61,21 +61,21 @@ pre: " <b> 1.7. </b> "
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Lập kế hoạch triển khai đồ án. <br> - Xác định các giai đoạn thực hiện: Thiết kế hệ thống, xây dựng Backend, xây dựng Frontend, triển khai hạ tầng AWS, kiểm thử và tối ưu hệ thống.</td>
+      <td class="col-task">- Tiếp tục hoàn thiện phương án triển khai hạ tầng. <br> - Lập kế hoạch triển khai đồ án.</td>
       <td class="col-date">05/06/2026</td>
       <td class="col-date">05/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Phân chia nhiệm vụ giữa các thành viên trong nhóm. <br> - Xác định tiến độ thực hiện và các mốc hoàn thành của từng giai đoạn.</td>
+      <td class="col-task">- Xác định các giai đoạn thực hiện: <br> &nbsp;&nbsp;&nbsp;&nbsp;- Thiết kế hệ thống. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Xây dựng Backend. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Xây dựng Frontend. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Triển khai hạ tầng AWS. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Kiểm thử và tối ưu hệ thống. <br> - Phân chia nhiệm vụ giữa các thành viên trong nhóm. <br> - Xác định timeline.</td>
       <td class="col-date">06/06/2026</td>
       <td class="col-date">06/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Tổng hợp kết quả nghiên cứu. <br> - Hoàn thiện kế hoạch triển khai đồ án. <br> - Chuẩn bị cho giai đoạn thiết kế kiến trúc hệ thống.</td>
+      <td class="col-task">- Xác định tiến độ thực hiện và các mốc hoàn thành của từng giai đoạn. <br> - Tổng hợp kết quả nghiên cứu. <br> - Hoàn thiện kế hoạch triển khai đồ án. <br> - Chuẩn bị cho giai đoạn thiết kế kiến trúc hệ thống.</td>
       <td class="col-date">07/06/2026</td>
       <td class="col-date">07/06/2026</td>
       <td class="col-ref"></td>

@@ -39,28 +39,28 @@ pre: " <b> 1.12. </b> "
     </tr>
     <tr>
       <td class="col-day">2</td>
-      <td class="col-task">- Phối hợp với các thành viên kiểm thử các chức năng của hệ thống. <br> - Ghi nhận và khắc phục các lỗi còn tồn tại.</td>
+      <td class="col-task">- Phối hợp với các thành viên kiểm thử các chức năng của hệ thống. <br> - Ghi nhận các lỗi còn tồn tại.</td>
       <td class="col-date">07/07/2026</td>
       <td class="col-date">07/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Hoàn thiện giao diện và tối ưu trải nghiệm người dùng. <br> - Kiểm tra tính đồng bộ giữa Frontend, Backend và hạ tầng AWS.</td>
+      <td class="col-task">- Khắc phục các lỗi còn tồn tại. <br> - Hoàn thiện giao diện. <br> - Tối ưu trải nghiệm người dùng.</td>
       <td class="col-date">08/07/2026</td>
       <td class="col-date">08/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">4</td>
-      <td class="col-task">- Hoàn thiện tài liệu triển khai và tài liệu kỹ thuật. <br> - Cập nhật sơ đồ kiến trúc theo phiên bản cuối cùng.</td>
+      <td class="col-task">- Kiểm tra tính đồng bộ giữa Frontend, Backend và hạ tầng AWS. <br> - Hoàn thiện tài liệu triển khai. <br> - Hoàn thiện tài liệu kỹ thuật.</td>
       <td class="col-date">09/07/2026</td>
       <td class="col-date">09/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Chuẩn bị báo cáo và tài liệu phục vụ nghiệm thu đồ án. <br> - Rà soát toàn bộ nội dung trước khi nộp.</td>
+      <td class="col-task">- Cập nhật sơ đồ kiến trúc theo phiên bản cuối cùng. <br> - Chuẩn bị báo cáo và tài liệu phục vụ nghiệm thu đồ án. <br> - Rà soát toàn bộ nội dung trước khi nộp.</td>
       <td class="col-date">10/07/2026</td>
       <td class="col-date">10/07/2026</td>
       <td class="col-ref"></td>

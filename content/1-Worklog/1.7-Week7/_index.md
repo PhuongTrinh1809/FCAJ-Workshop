@@ -47,7 +47,7 @@ pre: " <b> 1.7. </b> "
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Research system deployment models on AWS. <br> - Define the role of each service: Amazon EC2 for Backend deployment, Amazon RDS for database storage,- Amazon S3 for static asset storage, Amazon CloudFront for access speed optimization, Application Load Balancer for traffic distribution.</td>
+      <td class="col-task">- Research system deployment models on AWS. <br> - Define the role of each service: <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon EC2 deploys the Backend. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon RDS stores the database. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon S3 stores static assets. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Amazon CloudFront optimizes access speed. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Application Load Balancer distributes traffic.</td>
       <td class="col-date">03/06/2026</td>
       <td class="col-date">03/06/2026</td>
       <td class="col-ref"></td>
@@ -61,21 +61,21 @@ pre: " <b> 1.7. </b> "
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Create a project deployment plan. <br> - Define implementation phases: System design, backend development, frontend development, AWS infrastructure deployment, testing and system optimization.</td>
+      <td class="col-task">- Continue refining the infrastructure deployment plan. <br> - Create a project deployment plan.</td>
       <td class="col-date">05/06/2026</td>
       <td class="col-date">05/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Divide tasks among team members. <br> - Define timelines and milestones for each phase.</td>
+      <td class="col-task">- Define implementation phases: <br> &nbsp;&nbsp;&nbsp;&nbsp;- System design. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Build the Backend. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Build the Frontend. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Deploy AWS infrastructure. <br> &nbsp;&nbsp;&nbsp;&nbsp;- Test and optimize the system. <br> - Divide tasks among team members. <br> - Define the timeline.</td>
       <td class="col-date">06/06/2026</td>
       <td class="col-date">06/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Consolidate research results. <br> - Finalize the project deployment plan. <br> - Prepare for the system architecture design phase.</td>
+      <td class="col-task">- Define timelines and milestones for each phase. <br> - Consolidate research results. <br> - Finalize the project deployment plan. <br> - Prepare for the system architecture design phase.</td>
       <td class="col-date">07/06/2026</td>
       <td class="col-date">07/06/2026</td>
       <td class="col-ref"></td>

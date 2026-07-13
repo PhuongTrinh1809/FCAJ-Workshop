@@ -88,5 +88,9 @@ pre: " <b> 1.2. </b> "
 * Hoàn thành các nội dung học tập từ Module 01-04 đến Module 01-06.
 * Nắm cơ bản được kiến trúc hạ tầng toàn cầu của AWS và các công cụ quản lý dịch vụ.
 * Nắm được các phương pháp tối ưu chi phí trên nền tảng AWS.
-* Hoàn thành 04 bài Lab liên quan đến AWS Budgets: Create Budget by Template., Create Cost Budget Tutorial., Creating a Usage Budget in AWS., Creating a Reservation Instance (RI) Budget.
+* Hoàn thành 04 bài Lab liên quan đến AWS Budgets:
+	* Create Budget by Template
+	* Create Cost Budget Tutorial
+	* Creating a Usage Budget in AWS
+	* Creating a Reservation Instance (RI) Budget
 * Củng cố kỹ năng theo dõi, kiểm soát và tối ưu chi phí khi sử dụng các dịch vụ AWS.

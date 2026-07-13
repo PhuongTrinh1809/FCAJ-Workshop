@@ -33,7 +33,7 @@ pre: " <b> 1.10. </b> "
   <tbody>
     <tr>
       <td class="col-day">1</td>
-      <td class="col-task">- Prepare the Workshop deployment environment. <br> - Create IAM User and grant permissions for Amazon Cognito, Amazon API Gateway, Amazon CloudFront, and AWS WAF. <br> - Verify access permissions and configure AWS CLI for deployment.</td>
+      <td class="col-task">- Prepare the Workshop deployment environment. <br> - Create IAM User and grant permissions for Amazon Cognito, Amazon API Gateway, Amazon CloudFront, and AWS WAF. <br> - Verify access permissions. <br> - Configure AWS CLI for deployment.</td>
       <td class="col-date">22/06/2026</td>
       <td class="col-date">22/06/2026</td>
       <td class="col-ref"></td>
@@ -47,7 +47,7 @@ pre: " <b> 1.10. </b> "
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Deploy Amazon CloudFront Distribution. <br> - Configure Origin connected to API Gateway (leave Route 53 managed domain and Alternate domain blank). <br> - Set up Cache Behaviors, Origin request policy, and HTTPS redirect.</td>
+      <td class="col-task">- Deploy Amazon CloudFront Distribution. <br> - Configure Origin connected to API Gateway. <br> - Set up Cache Behaviors, Origin request policy, and HTTPS redirect.</td>
       <td class="col-date">24/06/2026</td>
       <td class="col-date">24/06/2026</td>
       <td class="col-ref"></td>
@@ -68,14 +68,14 @@ pre: " <b> 1.10. </b> "
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Test the full access flow: <br> - User → CloudFront (*.cloudfront.net) → AWS WAF → API Gateway (JWT/Cognito). <br> - Verify CloudFront domain, HTTPS, and system response.</td>
+      <td class="col-task">- Test the full access flow: <br> &nbsp;&nbsp;&nbsp;&nbsp;- User → CloudFront (*.cloudfront.net) → AWS WAF → API Gateway (JWT/Cognito) → ALB. <br> - Verify CloudFront domain and HTTPS. <br> - Verify system responsiveness.</td>
       <td class="col-date">27/06/2026</td>
       <td class="col-date">27/06/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Review all completed configuration. <br> - Document deployment results and update the parameter table (CloudFront domain, Cognito, API Gateway).</td>
+      <td class="col-task">- Review all completed configuration. <br> - Document deployment results. <br> - Update technical documentation and parameter table (CloudFront domain, Cognito, API Gateway).</td>
       <td class="col-date">28/06/2026</td>
       <td class="col-date">28/06/2026</td>
       <td class="col-ref"></td>

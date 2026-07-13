@@ -8,8 +8,8 @@ pre: " <b> 1.12. </b> "
 
 ### Week 12 goals:
 
-* Finalize the project.
-* Consolidate documentation and finalize the report.
+* Complete the project.
+* Compile documentation and finalize the report.
 
 ### Tasks for this week:
 <table class="worklog-table">
@@ -32,49 +32,49 @@ pre: " <b> 1.12. </b> "
   <tbody>
     <tr>
       <td class="col-day">1</td>
-      <td class="col-task">- Review all system features. <br> - Verify AWS infrastructure stability after integration.</td>
+      <td class="col-task">- Review all system functions. <br> - Verify AWS infrastructure stability after integration.</td>
       <td class="col-date">06/07/2026</td>
       <td class="col-date">06/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">2</td>
-      <td class="col-task">- Coordinate with team members to test system features. <br> - Document and fix remaining issues.</td>
+      <td class="col-task">- Coordinate with team members to test system functions. <br> - Document remaining issues.</td>
       <td class="col-date">07/07/2026</td>
       <td class="col-date">07/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">3</td>
-      <td class="col-task">- Finalize the interface and optimize user experience. <br> - Verify synchronization between Frontend, Backend, and AWS infrastructure.</td>
+      <td class="col-task">- Fix remaining issues. <br> - Complete the user interface. <br> - Optimize user experience.</td>
       <td class="col-date">08/07/2026</td>
       <td class="col-date">08/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">4</td>
-      <td class="col-task">- Finalize deployment and technical documentation. <br> - Update the architecture diagram to the final version.</td>
+      <td class="col-task">- Verify synchronization between Frontend, Backend, and AWS infrastructure. <br> - Complete deployment documentation. <br> - Complete technical documentation.</td>
       <td class="col-date">09/07/2026</td>
       <td class="col-date">09/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">5</td>
-      <td class="col-task">- Prepare reports and documents for project acceptance. <br> - Review all content before submission.</td>
+      <td class="col-task">- Update the architecture diagram to the final version. <br> - Prepare reports and documents for project acceptance. <br> - Review all content before submission.</td>
       <td class="col-date">10/07/2026</td>
       <td class="col-date">10/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">6</td>
-      <td class="col-task">- Complete final revisions based on instructor and team feedback. <br> - Re-test the entire system.</td>
+      <td class="col-task">- Complete final revisions based on instructor and team feedback. <br> - Re-check the entire system.</td>
       <td class="col-date">11/07/2026</td>
       <td class="col-date">11/07/2026</td>
       <td class="col-ref"></td>
     </tr>
     <tr>
       <td class="col-day">7</td>
-      <td class="col-task">- Completed the project. <br> - Consolidated all results achieved during the internship.</td>
+      <td class="col-task">- Completed the project. <br> - Summarize all results achieved during the internship.</td>
       <td class="col-date">12/07/2026</td>
       <td class="col-date">12/07/2026</td>
       <td class="col-ref"></td>
@@ -84,7 +84,7 @@ pre: " <b> 1.12. </b> "
 
 ### Week 12 results:
 
-* Finalized the project according to plan.
+* Completed the project according to the planned schedule.
 * Applied AWS infrastructure to the project system.
-* Finalized technical documentation, deployment documentation, and report.
-* The system operates stably and meets all requirements.
+* Completed technical documentation, deployment documentation, and reports.
+* The system operates stably and meets the stated requirements.
